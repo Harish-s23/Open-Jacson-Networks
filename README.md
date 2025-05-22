@@ -1,3 +1,7 @@
+Developed by: HARESH R
+
+Register number: 212224040097
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
